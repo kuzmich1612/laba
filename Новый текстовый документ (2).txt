@@ -1,0 +1,45 @@
+<html>
+<head>
+<meta content="text/html; charset=ISO-8859-1"
+http-equiv="content-type">
+<title>ввв</title>
+</head>
+<body>
+<h1
+style="color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-style: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-weight: normal;">Я
+учусь в Севастопольском Государственном Университете. В Политехническом
+институте. По специальности: Стандартизация и Метрология.Завтра я буду
+на парах:</h1>
+<br>
+<table style="text-align: left; width: 543px; height: 280px;" border="1"
+cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td style="vertical-align: top;">
+<h3>1 пара</h3>
+</td>
+<td style="vertical-align: top;">
+<h3>Основы проектирования продукции</h3>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: top;">
+<h3>2 пара</h3>
+</td>
+<td style="vertical-align: top;">
+<h3>Основы сертификации</h3>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: top;">
+<h3>3 пара</h3>
+</td>
+<td style="vertical-align: top;">
+<h3>Основы технического регулирования</h3>
+</td>
+</tr>
+</tbody>
+</table>
+<br>
+</body>
+</html>

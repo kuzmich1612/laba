@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Сайт</title>
+</head>
+<body style="width: 1229px; height: 860px;">
+<h2><br>
+</h2>
+<h2>Меня зовут Кузичкин Денис. <a href="%D0%B2%D0%B2%D0%B2.html">О себе</a><br>
+</h2>
+<img style="width: 759px; height: 1136px;" alt=""
+src="file:///C:/Users/denis/Desktop/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/zcszYS-FEtg.jpg"><br>
+<br>
+</body>
+</html>
